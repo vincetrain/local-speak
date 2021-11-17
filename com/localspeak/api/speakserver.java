@@ -20,6 +20,5 @@ public class speakserver {
         catch (Exception e) {
             System.out.println("An error occured establishing server.");
         }
-        
     }
 }
